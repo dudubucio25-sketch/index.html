@@ -1,0 +1,99 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Para ti, amorcito 💗</title>
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Playfair Display', serif;
+      background: linear-gradient(135deg, #f6f1eb, #f2e7f5);
+      color: #4a4a4a;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    .title {
+      font-family: 'Great Vibes', cursive;
+      font-size: 3.2rem;
+      text-align: center;
+      margin-bottom: 30px;
+      color: #8a6fa8;
+    }
+    .letter {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      background: rgba(255,255,255,0.7);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+    }
+    .letter p { margin-bottom: 18px; }
+    .signature {
+      margin-top: 30px;
+      font-family: 'Great Vibes', cursive;
+      font-size: 2rem;
+      color: #8a6fa8;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 15px;
+      margin-top: 40px;
+    }
+    .gallery img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 18px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    }
+    .music-note {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.95rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="title">Hola amorcito. 💗</div><div class="letter">
+  <p>Quise hacerte esta carta para decirte lo agradecida que estoy porque hayas llegado a mi vida. Sé que hemos tenido un camino a veces complicado, pero quiero que sepas que te he querido desde la primera vez que crucé palabras y miradas contigo.</p>
+
+  <p>Parece que el tiempo ha sido muy largo, aunque en realidad ha sido muy poco, pero quiero que sepas que atesoro y amo cada minuto que paso contigo.</p>
+
+  <p>Gracias por ofrecerme tu amor, por no hacerme dudar de ello, gracias por motivarme, por fortalecerme, por cuidarme y respetarme. ❤️</p>
+
+  <p>Te amo como no puedes imaginar, te amo hasta por los detalles que parecen más pequeños como por ejemplo, tu forma de hablar.</p>
+
+  <p>No tengo certeza de cuánto tiempo pasaremos juntos, pero sí tengo certeza para decirte que te voy a seguir amando por cada minuto juntos.</p>
+
+  <p>Eres un ejemplo porque eres trabajador, amable, relajado, sociable y buena persona. Tienes todas las cualidades que alguna vez imaginé de la persona que estuviera conmigo. 💗</p>
+
+  <p>Por favor no dudes ni un segundo que yo aplaudiré cada logro de tu vida y que te abrazaré incluso cuando no lo necesites. ❤️</p>
+
+  <p>Gracias por llenarme de más vida de la que tenía.</p>
+
+  <div class="signature">Siempre tuya, <br> 🤍</div>
+</div>
+
+<div class="gallery">
+  <!-- Reemplaza src por las imágenes que subas -->
+  <img src="imagen1.jpg" alt="Recuerdo juntos 1">
+  <img src="imagen2.jpg" alt="Recuerdo juntos 2">
+  <img src="imagen3.jpg" alt="Recuerdo juntos 3">
+  <img src="imagen4.jpg" alt="Recuerdo juntos 4">
+</div>
+
+<div class="music-note">
+  🎶 Reproduce de fondo: <em>Viento – Caifanes</em><br>
+  (Puedes insertar la canción con Spotify o YouTube al compartir esta página)
+</div>
+
+  </div>
+</body>
+</html>
